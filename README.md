@@ -9,8 +9,7 @@ project still in progress
 
 ## build
 ```
-qmake6 ./bia.pro
-make
+qmake6 ./bia.pro && make
 ```
 ## run
 ```
