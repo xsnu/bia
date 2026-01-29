@@ -67,7 +67,7 @@ void aboutProgram(QMainWindow& win) {
   imagel->setPixmap(image.scaled(250, 250, Qt::KeepAspectRatio));
   imagel->setAlignment(Qt::AlignCenter);
 
-  QLabel *info = new QLabel("Version: 0.1\nAuthor: suigarra\nHomepage: https://github.com/suigarra/bia\nLicense: MIT");
+  QLabel *info = new QLabel("Version: 0.1\nAuthor: xsnu\nHomepage: https://github.com/suigarra/bia\nLicense: MIT");
   QDialogButtonBox *button = new QDialogButtonBox(QDialogButtonBox::Close);
 
   QVBoxLayout *layout = new QVBoxLayout(&dialog);
