@@ -1,11 +1,11 @@
 // BIA -- simple book reader
 
-// Copyright (C) 2026 suigarra
+// Copyright (C) 2026 xsnu
 
-// Author: suigarra
+// Author: xsnu
 // Version: 0.1
 // Keywords: productivity
-// Homepage: https://github.com/suigarra/bia
+// Homepage: https://github.com/xsnu/bia
 // License: MIT
 
 #include <iostream>
